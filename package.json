@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "tu-chofer-front",
   "private": true,
   "version": "0.0.0",
@@ -23,5 +24,23 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "vite": "^6.3.5"
+=======
+  "name": "tuchofer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "auth": "^1.2.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+>>>>>>> 8ad689de08384a4e3999f07edd7d8530d8690d7a
   }
 }
